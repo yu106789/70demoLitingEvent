@@ -1,4 +1,4 @@
-$(function() {
+ $(function() {
   // 获取用户信息
   // /my/userinfo /  header / ls中的token
 
